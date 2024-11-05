@@ -36,6 +36,9 @@ To address the identified issues and enhance business performance, the following
 ## Conclusion
 The Unicorn E-Commerce Analysis provided valuable insights into the company's sales dynamics and profitability. The recommendations derived from this analysis are expected to guide strategic decisions, improve customer engagement, and drive overall business growth.
 
+
 **Tableau**: For data visualization and insights 📊  
   [View Tableau Dashboard](https://public.tableau.com/views/MS_Charts_17308129361520/Unicorn_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
- 
+- **Google Colab:** Documentation and execution of analysis ☁️  
+  - [View the Google Colab Notebook](https://colab.research.google.com/drive/1-WBE1l2NqX8BPtfTsxkSG3QBXNknCidZ?usp=sharing)
+
